@@ -24,11 +24,22 @@
 - Evinden kaçan evcil hayvanların bir daha hiç eve dönememe tehlikesi
 - Hayvan sahiplenme/kayıp hayvan bulma eylemlerinin sistematik bir şekilde yürütülememesi
 
-![Screen Shot 2022-05-11 at 18 35 42](https://user-images.githubusercontent.com/20050426/167889947-87b95b7a-aeab-4944-a752-f6a177e6e013.png)
+## Problem Analizi
+<img src="https://user-images.githubusercontent.com/20050426/167889947-87b95b7a-aeab-4944-a752-f6a177e6e013.png" width="512">
 
 ## Çözüm ve Son Kullanıcı Deneyimi
-- Çözüm ve Son Kullanıcı Deneyimi Açıklaması 1
-- Çözüm ve Son Kullanıcı Deneyimi Açıklaması 2
+### Pet Finder
+- QR Kod
+- Görüntü Eşleme
+- Akış
+### Pet Carer
+- Veterine
+- Sağlık Takibi
+- Kıyafet & Aksesuar
+### Pet Adopter
+- Sahiplendirme
+
+<img src="https://user-images.githubusercontent.com/20050426/167892275-f321d010-7ae5-4a94-86a3-308b6741d6cf.png" width="512">
 
 ## Paydaş Analizi
 <img src="https://user-images.githubusercontent.com/20050426/167891647-a3e6eeac-436b-4cd1-b549-e02f0b683a3b.png" width="512">
