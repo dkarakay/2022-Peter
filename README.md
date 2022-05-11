@@ -26,7 +26,10 @@
 - Çözüm ve Son Kullanıcı Deneyimi Açıklaması 2
 
 ### Hedef Kitle
-- Hedef Kitle Açıklaması
+#### Fransa
+- Pazar büyüklüğü: 9 Milyon evcil hayvan sahibi
+- 6 aylık Hedef: 9 milyonun yüzde 5'ini sisteme üye yapmak
+![Screen Shot 2022-05-11 at 18 36 46](https://user-images.githubusercontent.com/20050426/167890157-b8b9fe76-f767-4256-8212-76110bab50cf.png)
 
 ### Prototip
 - Prototip Açıklaması 1
