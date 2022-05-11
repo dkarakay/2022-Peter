@@ -40,5 +40,9 @@
 ### Prototip
 - Prototip Açıklamaları
 
+### Rakip Analizi
+
+![Screen Shot 2022-05-11 at 18 38 51](https://user-images.githubusercontent.com/20050426/167890637-15866141-7068-41b5-af4e-9cb6460465d9.png)
+
 ### Detaylar (İsteğe Bağlı)
 - Detay Açıklamalar
