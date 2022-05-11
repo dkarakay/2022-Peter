@@ -3,11 +3,14 @@
 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı kapsamında; İstanbul Büyükşehir Belediyesi ve Microsoft Türkiye iş birliği ile, Coderspace organizasyonu ile gerçekleşen ‘Sürdürülebilir Şehirler Hackathon’u projelerini içermektedir. Hackathon detayları için : https://surdurulebilirsehirler.ist/
 
 ### Proje Adı
-- Test Projesi
+- Peter
 
 ### Takım Adı & Üyeleri
-- Takım Üyesi 1 (Ad Soyad)
-- Takım Üyesi 2 (Ad Soyad)
+- Ercihan Kara
+- Özgür Kara
+- Deniz Karakay
+- Nilay Pamuk
+- Arda Ünver
 
 ### Problem
 - Problem Açıklaması 1
