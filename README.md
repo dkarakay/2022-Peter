@@ -60,8 +60,5 @@
 ## Teknik Mimari / Teknoloji / Veri Kaynakları
 - Teknik Mimari / Teknoloji / Veri Kaynakları Açıklamaları
 
-### Prototip
-- Prototip Açıklamaları
-
-### Detaylar (İsteğe Bağlı)
+## Detaylar (İsteğe Bağlı)
 - Detay Açıklamalar
