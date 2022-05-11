@@ -30,14 +30,18 @@
 - Çözüm ve Son Kullanıcı Deneyimi Açıklaması 1
 - Çözüm ve Son Kullanıcı Deneyimi Açıklaması 2
 
+## Paydaş Analizi
+<img src="https://user-images.githubusercontent.com/20050426/167891647-a3e6eeac-436b-4cd1-b549-e02f0b683a3b.png" width="512">
+
 ## Rakip Analizi
-![Screen Shot 2022-05-11 at 18 38 51](https://user-images.githubusercontent.com/20050426/167890637-15866141-7068-41b5-af4e-9cb6460465d9.png)
+
+<img src="https://user-images.githubusercontent.com/20050426/167890637-15866141-7068-41b5-af4e-9cb6460465d9.png" width="512">
 
 ## Hedef Kitle
 ### Fransa
 - Pazar büyüklüğü: 9 Milyon evcil hayvan sahibi
 - 6 aylık Hedef: 9 milyonun yüzde 5'ini sisteme üye yapmak
-![Screen Shot 2022-05-11 at 18 36 46](https://user-images.githubusercontent.com/20050426/167890157-b8b9fe76-f767-4256-8212-76110bab50cf.png)
+<img src="https://user-images.githubusercontent.com/20050426/167890157-b8b9fe76-f767-4256-8212-76110bab50cf.png" width="600">
 
 ## Prototip
 - Prototip Açıklaması 1
