@@ -58,7 +58,11 @@
 - Prototip Açıklaması 1
 
 ## Teknik Mimari / Teknoloji / Veri Kaynakları
-- Teknik Mimari / Teknoloji / Veri Kaynakları Açıklamaları
+- Flutter
+- Python
+- Firebase
+- Android
+- Pytorch
 
 ## Detaylar (İsteğe Bağlı)
 - Detay Açıklamalar
