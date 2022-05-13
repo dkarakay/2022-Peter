@@ -54,7 +54,7 @@
 - 6 aylık Hedef: 9 milyonun yüzde 5'ini sisteme üye yapmak
 <img src="https://user-images.githubusercontent.com/20050426/167890157-b8b9fe76-f767-4256-8212-76110bab50cf.png" width="600">
 
-## Şema
+## Görüntü Eşleme Çalışma Şeması
 
 <img src="https://user-images.githubusercontent.com/20050426/168238184-62036dd5-c052-4d09-8d30-53f81b218110.png" width="600">
 
